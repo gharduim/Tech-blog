@@ -52,7 +52,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Demonstration
 
-Live Deployed Application: [View Application](https://herokuapp.com/ "Live Deploy")      
+Live Deployed Application: [View Application](https://tech-blog-gus.herokuapp.com/ "Live Deploy")      
 
 ![Screenshot](./screenshots/tech-blog.jpg "Proof of Application")     
 
